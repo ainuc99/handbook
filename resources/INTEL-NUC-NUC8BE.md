@@ -1,6 +1,6 @@
 # Intel NUC NUC8BE 豆子峡谷
 
-![NUC8i7BEH](images/nuc8i7beh-banner.jpg)
+![NUC8i7BEH](images/nuc8-i7i5i3-beh-bek-family.jpg)
 
 Next Unit of Computing (NUC) 是一种小型设备或计算元件，可提供全面的台式机体验、游戏体验或边缘设备体验。NUC迷你电脑包含标准电脑的所有组件：处理器、内存、固态硬盘、LAN或Wi-Fi，并支持集成和独立显卡选项。最初采用迷你电脑形式的设备现在已经发展成用户期盼已久的新一代解决方案，因此得名NUC。["描述来源"](https://www.intel.cn/content/www/cn/zh/products/docs/boards-kits/nuc/what-is-nuc-article.html)
 
