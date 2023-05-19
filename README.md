@@ -8,40 +8,27 @@ AINUC®️云固件中的“云固件”与云计算中的云主机、云存储�
 
 本手册由陆伟峰编写，版权及解释权归个人所有。
 
-## 使用手册
+## [使用手册](manuals/INDEX.md)
 
-- 什么是云固件
-- 云固件的安装
-- 什么是云固件虚拟磁盘
-- 添加云固件虚拟磁盘
-- 使用云固件
-- 注意事项
+- [什么是云固件](manuals/INTRO.md)
+- [云固件虚拟磁盘](manuals/VD.md)
+- [云固件的安装](manuals/INSTALL.md)
+- [使用云固件](manuals/USAGE.md)
+- [注意事项](manuals/ATTENTION.md)
 
-## 镜像资源手册
+## [视频资料](videos/INDEX.md)
 
-### 按照基础操作系统分类
+- [白话云固件](videos/MW-IN-A-NUTSHELL.md)
 
-- Windows 10 Home
-- Windows 10 Professional
-- Windows 11 Home
-- Windows 11 Professional
-- Phoenix
-- Ubuntu 18.04 LTS
-- Ubuntu 20.04 LTS
-- Ubuntu 22.04 LTS
+## [镜像资源手册](resources/INDEX.md)
 
-### 按照适配主机分类
+- [Windows 10](resources/WINDOWS-10.md)
+- [Windows 11](resources/WINDOWS-11.md)
+- [Phoenix for K12 NUC](resources/PHOENIX.md)
+- [Ubuntu Desktop LTS](resources/UBUNTU-DESKTOP-LTS.md)
+- [Intel NUC NUC8BE（豆子峡谷）](resources/INTEL-NUC-NUC8BE.md)
 
-- Intel NUC NUC8BE（豆子峡谷）
-- Intel NUC NUC9QN（石英峡谷）
-- Intel NUC NUC11PA（猎豹峡谷）
-- Intel NUC Compute Element AB（Austin Beach）
-- Intel NUC Compute Element BB（Bulter Beach）
-- Intel NUC Compute Element FB（堡垒峡谷）
-- TOPFEEL T68M
+## [教程](manuals/TUTORIAL.md)
 
-## 进阶教程
-
-- 镜像分层规范
-- 制作分层镜像
-- 镜像性能优化
+- [镜像分层规范](manuals/LAYERS.md)
+- [制作分层镜像](manuals/MAKE-LAYERS-IMAGES.md)
