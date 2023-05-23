@@ -33,3 +33,9 @@ AINUC®️云固件中的“云固件”与云计算中的云主机、云存储�
 
 - [镜像分层规范](manuals/LAYERS.md)
 - [制作分层镜像](manuals/MAKE-LAYERS-IMAGES.md)
+- [云固件移动模式的安装](manuals/MW-TO-GO.md)
+
+### 联系方式
+
+***---AINUC云固件小助手---***
+![AINUC云固件小助手微信](manuals/images/ainuc99.png "AINUC云固件小助手微信号")
