@@ -19,7 +19,8 @@ AINUC®️云固件中的“云固件”与云计算中的云主机、云存储�
 
 ## [2.视频资料](videos/INDEX.md)
 
-- [白话云固件](videos/MW-IN-A-NUTSHELL.md)
+- [01.白话云固件](videos/MW-IN-A-NUTSHELL.md)
+- [02.云固件初探](videos/MW-FIRST-LOOK.md)
 
 ## [3.镜像资源手册](resources/INDEX.md)
 
