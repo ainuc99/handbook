@@ -8,3 +8,4 @@
 
 - [01.白话云固件](MW-IN-A-NUTSHELL.md)
 - [02.云固件初探](MW-FIRST-LOOK.md)
+- [03.云固件再探](MW-SECOND-LOOK.md)
