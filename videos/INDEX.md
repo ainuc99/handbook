@@ -10,3 +10,4 @@
 - [02.云固件初探](MW-FIRST-LOOK.md)
 - [03.云固件再探](MW-SECOND-LOOK.md)
 - [04.云固件三探](MW-THIRD-LOOK.md)
+- [05.云固件内置模式安装](MW-INSTALL-INTERNAL.md)

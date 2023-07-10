@@ -23,6 +23,7 @@ AINUC®️云固件中的“云固件”与云计算中的云主机、云存储�
 - [02.云固件初探](videos/MW-FIRST-LOOK.md)
 - [03.云固件再探](videos/MW-SECOND-LOOK.md)
 - [04.云固件三探](videos/MW-THIRD-LOOK.md)
+- [05.云固件内置模式安装](videos/MW-INSTALL-INTERNAL.md)
 
 ## [3.镜像资源手册](resources/INDEX.md)
 
