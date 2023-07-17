@@ -49,7 +49,12 @@ VHD(x)镜像格式支持Fixed、Dynamic、Difference三种模式，其中Differe
 
 ![直接使用的镜像参考](images/ready-to-play.png)
 
+## 结语
+
+云固件镜像最终将支持VHD(x)各自的三种共计六种格式，RAW及ISO格式将会在特定场合上使用来方便使用者。
+
 更多启动参数配置说明可参考演练场menu.config内注释以及知乎上“AINUC云固件”专栏文章和视频。
 
 云固件相关文章和视频可在搜索引擎上搜索“云固件”或者“AINUC云固件”。
+
 欲了解更多信息可微信搜索“AINUC99”添加云固件小助手咨询。
