@@ -17,7 +17,7 @@
 |版本|发布日期|下载链接|
 |:-----|:----|:----|
 |v1.2.23418|2023/4/18|[百度网盘](https://pan.baidu.com/s/1P7_J_ie8caoLs6HFBXvQNw?pwd=l2gy)|
-|v1.4.23715|2023/7/15|[百度网盘]()|
+|v1.4.23715|2023/7/15|[百度网盘](https://pan.baidu.com/s/1D4NuMqWCKhRA8G49_SQwAg)|
 
 ## 云固件镜像资源
 
@@ -27,7 +27,7 @@
 |:-----|:----:|:----:|:----|:----|:----|:----|
 |AINUC云固件基础磁盘|-|-|990b05fd|990b05fd-080b-49c9-8c8b-b2c354735759|[百度网盘]()|各平台通用|
 |**Windows 10**|||||||
-|Windows 10 22H2（March 2023）|L0|x64|||[百度网盘]()||
+|Windows 10 22H2（March 2023）|L0|x64|a0b28d74|a0b28d74-55a9-4e9b-8fe2-f1b7ae12d130|[百度网盘]()||
 |Windows 10 22H2（March 2023）Home|L1|x64|||[百度网盘]()||
 |Windows 10 22H2（March 2023）Home|L2|x64|||[百度网盘]()|Intel CPU通用|
 |Windows 10 22H2（March 2023）Home|L2|x64|||[百度网盘]()|AMD CPU通用|
@@ -46,6 +46,7 @@
 |Windows 11 22H2（March 2023）Pro NUC11PA|L4|x64|b4e4fc19|b4e4fc19-2fdf-46c7-b783-44aa44a2bfc6|[百度网盘]()|Intel NUC 11 Panther Canyon 猎豹峡谷|
 |Windows 11 22H2（March 2023）Pro NUC11PA|L5|x64|b5ffb252|b5ffb252-389b-45cb-b567-731cee301e6e|[百度网盘]()|Intel NUC 11 Panther Canyon 猎豹峡谷|
 |**Ubuntu Desktop**|||||||
+|Ubuntu Desktop 22.04.2 LTS|L0|x64|||[百度网盘]()|LiveCD ISO|
 |Ubuntu Desktop 22.04.2 LTS|L1|x64|22042002||[百度网盘]()||
 |**Installation ISO**|||||||
 |Windows 10 22H2（March 2023）Consumer Editions ISO|-|x64|||[百度网盘]()|ISO|
