@@ -31,6 +31,8 @@
 下载[云固件r1.4.23715](https://pan.baidu.com/s/1D4NuMqWCKhRA8G49_SQwAg)，得到vd.config和v1.4.23715.zip两个文件。  
 解压缩v1.4.23715.zip得到v1.4.23715文件夹，备用。
 
+下载[云固件镜像演练场](https://pan.baidu.com/s/1NxE7xWEQ1zyGDaCV4T56NQ)备用，DiskGenius工具在此。
+
 #### 外置模式
 
 插上需要作为启动盘的U盘，使用Diskgenius分区。普通USB2.0的U盘也可以。
