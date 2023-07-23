@@ -14,7 +14,7 @@ AINUC®️云固件中的“云固件”与云计算中的云主机、云存储�
 - [云固件虚拟磁盘](manuals/VD.md)
 - [云固件的安装](manuals/INSTALL.md)
 - [云固件的使用](manuals/USAGE.md)
-- [云固件演练场](/manuals/PLAYGROUND.md)
+- [云固件镜像演练场](/manuals/PLAYGROUND.md)
 - [云固件必备资源](manuals/DEBUT.md)
 - [注意事项](manuals/ATTENTION.md)
 - [常见问题](manuals/FAQ.md)
