@@ -6,7 +6,9 @@ AINUC®️云固件中的“云固件”与云计算中的云主机、云存储�
 
 本手册使用链接的形式将内容按照类别进行组织，根据不同的类别，可能会出现相同的内容位于不同的类别下，请读者注意，这并非是错误。
 
-![AINUC云固件小助手微信](manuals/images/ainuc99.png "AINUC云固件小助手微信号")
+|||
+|-|-|
+|![AINUC云固件小助手微信](manuals/images/ainuc99.png "AINUC云固件小助手微信号")|[知乎](https://www.zhihu.com/column/c_1632473479701397504)  [B站](https://space.bilibili.com/1429153408)|
 
 ## [1.使用手册](manuals/INDEX.md)
 
@@ -17,7 +19,6 @@ AINUC®️云固件中的“云固件”与云计算中的云主机、云存储�
 - [云固件的使用](manuals/USAGE.md)
 - [云固件镜像演练场](/manuals/PLAYGROUND.md)
 - [云固件必备资源](manuals/DEBUT.md)
-- [注意事项](manuals/ATTENTION.md)
 - [常见问题](manuals/FAQ.md)
 
 ## [2.视频资料](videos/INDEX.md)
@@ -28,10 +29,11 @@ AINUC®️云固件中的“云固件”与云计算中的云主机、云存储�
 - [04.云固件三探](videos/MW-THIRD-LOOK.md)
 - [05.云固件内置模式安装](videos/MW-INSTALL-INTERNAL.md)
 
-## [3.镜像资源手册](resources/INDEX.md)
+## [3.镜像仓库](resources/INDEX.md)
 
-- [Windows 10](resources/WINDOWS-10.md)
-- [Windows 11](resources/WINDOWS-11.md)
+- [Microsoft Windows 系列](resources/WINDOWS.md)
+  - [Windows 10](resources/WINDOWS-10.md)
+  - [Windows 11](resources/WINDOWS-11.md)
 - [Phoenix for K12 NUC](resources/PHOENIX-K12-NUC.md)
 - [Ubuntu Desktop LTS](resources/UBUNTU-DESKTOP-LTS.md)
 - [Intel NUC NUC8BE（豆子峡谷）](resources/INTEL-NUC-NUC8BE.md)
