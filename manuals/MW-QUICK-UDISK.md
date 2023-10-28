@@ -45,21 +45,20 @@ AINUC®️云固件（Multiware）是基于UEFI标准的固件扩展应用程序
   - Home L1
   - Professional L1
 - Ubuntu Desktop 22.04 LTS
-  - Desktop L1
-  - Desktop L3
-- Ubuntu 23.10
+  - ISO
   - Desktop L1
   - Desktop L3
 - Ubuntu Kylin
   - 23.04 L1
+  - 23.04 L3
 - Deepin Desktop
   - Community 20.9 L1
-- UOS Desktop
-  - Home 22.0 L1
 - Windows PE
   - WePE 2.2 ISO
 
 由于镜像众多，为了区分及后续镜像商店使用，每个镜像都定义了一个UUID来区分，并使用UUID的前8个字符作为文件夹名称。
+
+*由于主机BIOS的完善程度不同、操作系统的支持能力不同，Windows以外的系统有可能会出现黑屏或者启动错误，如出现问题请向云固件小助手汇报错误信息*
 
 ## 4.快装步骤
 
@@ -69,7 +68,7 @@ AINUC®️云固件（Multiware）是基于UEFI标准的固件扩展应用程序
 
 其次，将需要的云固件虚拟磁盘镜像文件夹复制到VDs分区根目录下，通常镜像文件夹为8个16进制字符，比如“a172d04c”。
 
-如果镜像文件是压缩文件，那么请解压到当前目录下。
+如果镜像文件是压缩文件，那么请解压到当前文件夹下。
 
 修改VDs分区根目录下的vd.config配置文件，将虚拟磁盘镜像加入引导配置菜单。如果没有vd.config文件，直接用记事本创建一个空白文件进行修改。如menu.config配置文件已经引入，可不修改。如没有，可手动添加如下：
 
@@ -92,7 +91,7 @@ include \a172d04c\menu.config
 
 ### 复制模式
 
-镜像文件夹复制到VDs分区下，根据自己的需要改名为符合用途的“Code”、“Work”、“Office”、“Home”、“Game”名称，比如Code.vhdx。
+镜像文件夹复制到VDs分区下，根据自己的需要改名为符合用途的“Code”、“Work”、“Office”、“Home”、“Game”名称，也可以自定义名称，比如Code.vhdx，不支持中文字符。
 
 ### 差分模式
 
@@ -110,6 +109,6 @@ include \a172d04c\menu.config
 
 更多说明可参考知乎上“AINUC云固件”专栏文章和视频。  
 云固件相关文章和视频可在搜索引擎上搜索“云固件”或者“AINUC云固件”。  
-欲了解更多信息可微信搜索“AINUC99”添加云固件小助手咨询。
+欲了解更多信息可微信搜索“AINUC99”添加云固件小助手咨询，也可以直接扫描主界面内二维码添加。
 
 云固件及云固件镜像提及的品牌、商标均为各自的所有者所拥有。
